@@ -42,9 +42,13 @@ function Currency({active,handleActive}) {
         USD
       </span>
       <ul className={active === 'currency' ? "tp-currency-list-open" : ""}>
+      <li>
+          <a href="#">IND</a>
+        </li>
         <li>
           <a href="#">EUR</a>
         </li>
+        
         <li>
           <a href="#">CHF</a>
         </li>

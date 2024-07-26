@@ -83,7 +83,7 @@ const ReviewForm = ({product_id}) => {
               name="name"
               id="name"
               type="text"
-              placeholder="Shahnewaz Sakil"
+              placeholder="Ayush Gupta"
             />
           </div>
           <div className="tp-product-details-review-input-title">

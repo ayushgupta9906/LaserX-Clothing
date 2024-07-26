@@ -23,7 +23,7 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
                         <Image src={logo} alt="logo" />
                       </Link>
                     </div>
-                    <p className="tp-footer-desc">We are a dynamic team of full stack developers and designers crafting high-quality web applications</p>
+                    
                     <div className="tp-footer-social">
                       {social_data.map(s => <a href={s.link} key={s.id} target="_blank">
                         <i className={s.icon}></i>
@@ -69,7 +69,7 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
                   <div className="tp-footer-widget-content">
                     <div className="tp-footer-talk mb-20">
                       <span>Got Questions? Call us</span>
-                      <h4><a href="tel:670-413-90-762">+966 595 035 008</a></h4>
+                      <h4><a href="tel:91 7906 150 152">+91 7906 150 152</a></h4>
                     </div>
                     <div className="tp-footer-contact">
                       <div className="tp-footer-contact-item d-flex align-items-start">
@@ -79,7 +79,7 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
                           </span>
                         </div>
                         <div className="tp-footer-contact-content">
-                          <p><a href="mailto:shofy@support.com">swe.hamedhasan@gmail.com</a></p>
+                          <p><a href="mailto:shofy@support.com">londonayush2610@gmail.com</a></p>
                         </div>
                       </div>
                       <div className="tp-footer-contact-item d-flex align-items-start">
@@ -89,7 +89,7 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
                           </span>
                         </div>
                         <div className="tp-footer-contact-content">
-                          <p><a href="https://www.google.com/maps/place/Sleepy+Hollow+Rd,+Gouverneur,+NY+13642,+USA/@44.3304966,-75.4552367,17z/data=!3m1!4b1!4m6!3m5!1s0x4cccddac8972c5eb:0x56286024afff537a!8m2!3d44.3304928!4d-75.453048!16s%2Fg%2F1tdsjdj4" target="_blank">79 Sleepy Hollow St. <br /> Jamaica, Jeddah 1432</a></p>
+                          <p><a href="https://maps.app.goo.gl/e4AiMVCr4fLzDq817" target="_blank">105/21 Green Park Colony <br />Bareilly, Uttar Pradesh, India 243006</a></p>
                         </div>
                       </div>
                     </div>
@@ -105,8 +105,8 @@ const Footer = ({ style_2 = false, style_3 = false,primary_style=false }) => {
               <div className="row align-items-center">
                 <div className="col-md-6">
                   <div className="tp-footer-copyright">
-                    <p>© {new Date().getFullYear()} All Rights Reserved  |  Next js Template by
-                      <Link href="/">{" "}❤</Link>.
+                    <p>© {new Date().getFullYear()} All Rights Reserved  |  Developed by Ayush gupta | 
+                      <Link href="https://www.linkedin.com/in/ayush-gupta-3a93621b6/">{"Linkedin"}</Link>
                     </p>
                   </div>
                 </div>

@@ -8,26 +8,26 @@ export const fashion_testi_data = [
   {
     id:1,
     review:4,
-    desc:'“ How you use the city or town name is up to you. All results may be freely used in any work.”',
+    desc:'',
     user:user_2,
-    name:'Theodore Handle',
-    designation:'CO Founder'
+    name:'',
+    designation:''
   },
   {
     id:2,
     review:5,
-    desc:'“Very happy with our choice to take our daughter to Brave care. The entire team was great! Thank you!”',
+    desc:'',
     user:user_3,
-    name:'John Smith',
-    designation:'UI/UX Designer'
+    name:'',
+    designation:''
   },
   {
     id:3,
     review:3,
-    desc:'“Thanks for all your efforts and teamwork over the last several months!  Thank you so much”',
+    desc:'',
     user:user_4,
-    name:'Salim Rana',
-    designation:'Web Developer'
+    name:'',
+    designation:''
   },
 ]
 
@@ -36,25 +36,25 @@ export const beauty_testi_data = [
   {
     id:1,
     review:4,
-    desc:'Suscipit tellus mauris a diam maecenas. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Auctor urna nunc id cursus. Scelerisque purus semper eget duis at. Pharetra vel turpis nunc eget.',
+    desc:'',
     user:user_1,
-    name:'Jake Weary',
-    designation:'CO Founder'
+    name:'',
+    designation:''
   },
   {
     id:2,
     review:3.5,
-    desc:'Suscipit tellus mauris a diam maecenas. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Auctor urna nunc id cursus. Scelerisque purus semper eget duis at. Pharetra vel turpis nunc eget.',
+    desc:'',
     user:user_2,
-    name:'Salim Rana',
-    designation:'Web Developer'
+    name:'',
+    designation:''
   },
   {
     id:3,
     review:5,
-    desc:'Suscipit tellus mauris a diam maecenas. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Auctor urna nunc id cursus. Scelerisque purus semper eget duis at. Pharetra vel turpis nunc eget.',
+    desc:'',
     user:user_3,
-    name:'Selina Gomz',
-    designation:'CO Founder'
+    name:'',
+    designation:''
   },
 ]
