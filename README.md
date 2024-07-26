@@ -1,4 +1,4 @@
-# LaserX Fashion – Full Stack eCommerce Web Application + Admin Panel
+# LaserX Clothing
 
 
 ![LaserX Image Banner](https://i.ibb.co/vckrzmN/shofy-fashion-banner.png)
@@ -72,7 +72,7 @@ To get started with LaserX, follow these steps:
 1. Clone the repository:
 
    ```bash
-  https://github.com/ayushgupta9906/LaserX-Clothing.git
+     https://github.com/ayushgupta9906/LaserX-Clothing.git
    ```
 
 2. Install dependencies:
