@@ -1,7 +1,7 @@
 # LaserX Clothing
 
 
-![LaserX Image Banner]((https://github.com/ayushgupta9906/LaserX-Clothing/blob/a8ebcaeaf1f0e6c09cfccafe5c8dbd800b739387/Screenshot%202024-07-26%20173826.png))
+![LaserX Image Banner](https://github.com/ayushgupta9906/LaserX-Clothing/blob/a8ebcaeaf1f0e6c09cfccafe5c8dbd800b739387/Screenshot%202024-07-26%20173826.png)
 
 LaserX Clothing is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
